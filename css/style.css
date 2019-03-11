@@ -2891,6 +2891,7 @@ input.hs-button.primary.large{
 
 .student_pic {
   border-radius: 100px;
+  object-fit: cover;
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
   width: 140px;
