@@ -2899,6 +2899,7 @@ input.hs-button.primary.large{
   left: 41.07%;
   border: 2px solid white;
   margin-top: 205px;
+  object-fit: cover;
 }
 
 
