@@ -1,0 +1,9 @@
+Name: 				Douglas Ward
+Github Username: 		wardou2
+Blog URL: 			wardou2.github.io
+Tagline: 			Earth. It was fun while it lasted.
+Favorite Websites: 		google, stack overflow
+Previous Work Experience: 	Electrical Engineering
+Short Bio: 			Electrical engineer transitioning to Software Development
+Linkedin URL: 			https://www.linkedin.com/in/dougward92/
+Education: 			BSEE University of Florida
